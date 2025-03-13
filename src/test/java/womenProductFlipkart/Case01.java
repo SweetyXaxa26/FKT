@@ -20,7 +20,7 @@ public class Case01 {
 	public static void main(String[] args) throws InterruptedException {
 	
 		
-		System.out.println("case01-- Search to Productlist--- ");
+		System.out.println("case01-- Search to Productlist---  ");
 		  WebDriver driver = new ChromeDriver();
 	        driver.manage().window().maximize();
 	        
